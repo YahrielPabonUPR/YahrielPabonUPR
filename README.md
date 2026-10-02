@@ -18,7 +18,7 @@ I'm currently developing experience in C/C++, digital systems, microprocessors, 
 - Hardware-Software Integration
 
 ## Nice to meet you!
-I'm always in the lookout for learning experiences through technical projeccts and opportunities that allow me to further develop my skills and gain practical experience.
+I'm always on the lookout for learning experiences through technical projeccts and opportunities that allow me to further develop my skills and gain practical experience.
 Thank you for reading!
 
 ## LinkedIn
