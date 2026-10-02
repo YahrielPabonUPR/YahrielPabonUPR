@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello, I'm Yahriel 👋
 
-<!--
-**YahrielPabonUPR/YahrielPabonUPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Puerto Rico at Mayagüez. 
 
-Here are some ideas to get you started:
+I'm currently developing experience in C/C++, digital systems, microprocessors, cybersecurity, and embedded systems through coursework, technical projects and hands-on IT experience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working With 
+- C
+- C++
+- Git/GitHub
+- Logisim 2.7
+- Google Apps Script
+- Linux/Unix
+
+## Areas of Interest
+- Cybersecurity
+- Embedded Systems
+- Hardware-Software Integration
+
+## Nice to meet you!
+I'm always in the lookout for learning experiences through technical projeccts and opportunities that allow me to further develop my skills and gain practical experience.
+Thank you for reading!
+
+## LinkedIn
+[Yahriel D. Pabón Estrada](https://www.linkedin.com/in/yahriel-dal%C3%AD-pab%C3%B3n-estrada-37a073271/)
