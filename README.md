@@ -22,4 +22,4 @@ I'm always on the lookout for learning experiences through technical projeccts a
 Thank you for reading!
 
 ## LinkedIn
-[Yahriel D. Pabón Estrada](https://www.linkedin.com/in/yahriel-dal%C3%AD-pab%C3%B3n-estrada-37a073271/)
+[Yahriel D. Pabón Estrada](https://www.linkedin.com/in/yahriel-dal%C3%AD-pab%C3%B3n-estrada/)
